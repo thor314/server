@@ -7,3 +7,6 @@
 [submodule "rocket-examples"]
 	path = rocket-examples
 	url = git@github.com:thor314/rocket-examples.git
+[submodule "diesel-demo"]
+	path = diesel-demo
+	url = git@github.com:thor314/diesel-demo.git
